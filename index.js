@@ -47,7 +47,7 @@ async function searchListings(loc,checkIn,checkOut,guest){
     const options = {
       method: 'GET',
       headers: {
-        'X-RapidAPI-Key': '6f683e8818msh6e8c73f59c10e99p14a4d2jsndff3ec4c8106',
+        'X-RapidAPI-Key': 'b501bc864amshe95b4524ff463fcp1fd138jsn5dc29920af34',
         'X-RapidAPI-Host': 'airbnb13.p.rapidapi.com'
       }
     };
